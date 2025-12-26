@@ -2,7 +2,7 @@
 import { PortfolioItem, PricingPlan } from './types';
 
 export const PORTFOLIO_ITEMS: PortfolioItem[] = [
-  { id: 1, url: 'https://picsum.photos/800/600?random=1', category: 'Weddings', title: 'Eternal Vows' },
+  { id: 1, url: 'wedding1.jpg', category: 'Weddings', title: 'love' },
   { id: 2, url: 'https://picsum.photos/800/800?random=2', category: 'Portraits', title: 'Urban Soul' },
   { id: 4, url: 'https://picsum.photos/800/500?random=4', category: 'Weddings', title: 'Golden Hour Kiss' },
   { id: 5, url: 'https://picsum.photos/500/800?random=5', category: 'Portraits', title: 'Childhood Joy' },
