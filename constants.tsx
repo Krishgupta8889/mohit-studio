@@ -3,9 +3,9 @@ import { PortfolioItem, PricingPlan } from './types';
 
 export const PORTFOLIO_ITEMS: PortfolioItem[] = [
   { id: 1, url: 'https://res.cloudinary.com/dbmikomtn/image/upload/v1766743624/WhatsApp_Image_2025-12-25_at_8.31.42_PM_yxgjt2.jpg', category: 'Weddings', title: 'love' },
-  { id: 2, url: 'https://picsum.photos/800/800?random=2', category: 'Portraits', title: 'Urban Soul' },
-  { id: 4, url: 'https://picsum.photos/800/500?random=4', category: 'Weddings', title: 'Golden Hour Kiss' },
-  { id: 5, url: 'https://picsum.photos/500/800?random=5', category: 'Portraits', title: 'Childhood Joy' },
+  { id: 2, url: 'https://res.cloudinary.com/dbmikomtn/image/upload/v1766743624/WhatsApp_Image_2025-12-25_at_11.50.33_PM_k7n0um.jpg', category: 'Portraits', title: 'together' },
+  { id: 4, url: 'https://res.cloudinary.com/dbmikomtn/image/upload/v1766743624/WhatsApp_Image_2025-12-25_at_8.31.42_PM_1_u93r82.jpg', category: 'Weddings', title: 'not perfect just real' },
+  { id: 5, url: 'https://res.cloudinary.com/dbmikomtn/image/upload/v1766743624/WhatsApp_Image_2025-12-25_at_8.31.35_PM_mzsgno.jpg', category: 'Portraits', title: 'elegance' },
   { id: 7, url: 'https://picsum.photos/600/600?random=7', category: 'Weddings', title: 'Reception Glow' },
   { id: 8, url: 'https://picsum.photos/800/700?random=8', category: 'Portraits', title: 'Classic Elegance' },
 ];
