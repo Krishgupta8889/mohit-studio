@@ -23,7 +23,7 @@ const Contact: React.FC = () => {
     }
 
     // Format the WhatsApp message
-    const whatsappNumber = '917581907594';
+    const whatsappNumber = '917772089521';
     const message = `Hello Mohit Studio! 👋
     
 *New Inquiry via Website*
